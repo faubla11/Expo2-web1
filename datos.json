@@ -1,0 +1,38 @@
+[
+    {
+      "Cédula": "1316635745",
+      "Nombre": "Bryan Jose Macias Faubla",
+      "Dirección": "Barrio los Bosques - Divino niño",
+      "Teléfono": "0980518380",
+      "Correo": "bryanm@gmail.com",
+      "Curso": "Quinto",
+      "Paralelo": "A"
+    },
+    {
+      "Cédula": "1314456781",
+      "Nombre": "Tonny Edison Bailon Delgado",
+      "Dirección": "El Prado, Manta",
+      "Teléfono": "0934568734",
+      "Correo": "Tonnym@hotmail.com",
+      "Curso": "Sexto",
+      "Paralelo": "A"
+    },
+    {
+      "Cédula": "1345312350",
+      "Nombre": "Carmen Estefania Lopez Solorzano",
+      "Dirección": "Divino Niño, Manta",
+      "Teléfono": "0921346754",
+      "Correo": "carmen@gmail.com",
+      "Curso": "Quinto",
+      "Paralelo": "A"
+    },
+    {
+      "Cédula": "1323658718",
+      "Nombre": "Angel Gabriel Garcia Velasquez",
+      "Dirección": "Ursa, Manta",
+      "Teléfono": "0945258607",
+      "Correo": "angel@hotmail.com",
+      "Curso": "Sexto",
+      "Paralelo": "A"
+    }
+  ]
